@@ -1,0 +1,19 @@
+{
+  "name": "guli-heo",
+  "version": "1.0.2",
+  "description": "Heo原创IP-咕哩",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhheo/Guli.git"
+  },
+  "author": "zhheo",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/zhheo/Guli/issues"
+  },
+  "homepage": "https://github.com/zhheo/Guli#readme"
+}
